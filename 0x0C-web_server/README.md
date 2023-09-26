@@ -1,1 +1,1 @@
-Solutions for tasks on Web server
+Web server
